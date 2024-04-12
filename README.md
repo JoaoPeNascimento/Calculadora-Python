@@ -4,7 +4,7 @@ Calculadora Feita com Python utilizando a biblioteca Tkinter para criar a interf
 
 ![Print da calculadora](https://github.com/JoaoPeNascimento/assets/blob/main/Calculadora/calculador.jpg)
 
-#Tecnologias:
+# Tecnologias:
 
 > Python <br>
 > Tkinter
